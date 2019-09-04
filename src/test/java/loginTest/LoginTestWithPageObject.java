@@ -12,6 +12,7 @@ public class LoginTestWithPageObject extends ParentTest {
         homePage.inputLogin("Fanat2019");
         homePage.inputPassword("Fanat2019");
         homePage.clickSubmit();
+        //test
 
     }
 
