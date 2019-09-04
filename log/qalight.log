@@ -1,0 +1,31 @@
+2019-06-08 18:22:07   INFO [pages.LoginPage] : LoginPage was opened
+2019-06-08 18:23:16   INFO [pages.LoginPage] : LoginPage was opened
+2019-06-08 18:24:26   INFO [pages.LoginPage] : LoginPage was opened
+2019-06-08 18:35:31   INFO [pages.LoginPage] : LoginPage was opened
+2019-06-08 18:35:32   INFO [pages.LoginPage] : Element was clicked
+2019-06-08 18:35:32   INFO [pages.LoginPage] : "Registrtion" tab was clicked
+2019-06-08 18:36:37   INFO [pages.LoginPage] : LoginPage was opened
+2019-06-08 18:36:37   INFO [pages.LoginPage] : "SignIn" button was clicked
+2019-06-08 18:36:37   INFO [pages.LoginPage] : Can't click to tab
+2019-07-08 16:15:06   INFO [pages.LoginPage] : LoginPage was opened
+2019-07-08 16:15:07   INFO [pages.LoginPage] : "SignIn" button was clicked
+2019-07-08 16:15:07   INFO [pages.LoginPage] : Can't click to "Authorisation" tab
+2019-07-08 16:16:57   INFO [pages.LoginPage] : LoginPage was opened
+2019-07-08 16:16:58   INFO [pages.LoginPage] : "SignIn" button was clicked
+2019-07-08 16:16:58   INFO [pages.LoginPage] : Fanat2019was inputted to "Login" field
+2019-07-08 16:16:58   INFO [pages.LoginPage] : Fanat2019was inputted to "Password" field
+2019-07-08 16:16:58   INFO [pages.LoginPage] : "Submit" button was clicked
+2019-07-08 17:30:36   INFO [pages.HomePage] : LoginPage was opened
+2019-07-08 17:30:36   INFO [pages.HomePage] : "SignIn" button was clicked
+2019-07-08 17:30:37   INFO [pages.HomePage] : Fanat2019was inputted to "Login" field
+2019-07-08 17:30:37   INFO [pages.HomePage] : Fanat2019was inputted to "Password" field
+2019-07-08 17:30:37   INFO [pages.HomePage] : "Submit" button was clicked
+2019-27-08 17:12:20   INFO [pages.HomePage] : LoginPage was opened
+2019-27-08 17:12:20   INFO [pages.HomePage] : "SignIn" button was clicked
+2019-27-08 17:12:20   INFO [pages.HomePage] : Fanat2019was inputted to "Login" field
+2019-27-08 17:12:20   INFO [pages.HomePage] : Fanat2019was inputted to "Password" field
+2019-27-08 17:28:49   INFO [pages.HomePage] : LoginPage was opened
+2019-27-08 17:28:49   INFO [pages.HomePage] : "SignIn" button was clicked
+2019-27-08 17:28:49   INFO [pages.HomePage] : Fanat2019was inputted to "Login" field
+2019-27-08 17:28:49   INFO [pages.HomePage] : Fanat2019was inputted to "Password" field
+2019-27-08 17:28:50   INFO [pages.HomePage] : "Submit" button was clicked
