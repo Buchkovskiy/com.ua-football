@@ -1,6 +1,7 @@
 package parentTest;
 
 import org.junit.After;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
@@ -31,6 +32,10 @@ public class ParentTest {
     @After
     public void tearDown(){
         webDriver.quit();
+    }
+
+    public void checkExpectedResult (String message, boolean expectedResult, boolean actualResult){
+        Assert.assertEquals(message, expectedResult, actualResult);
     }
 
 
