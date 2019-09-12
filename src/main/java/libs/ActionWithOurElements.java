@@ -25,5 +25,26 @@ public class ActionWithOurElements {
         }
     }
 
+    public void clickOnElement(WebElement webElement){
+        try{
+            webElement.click();
+            logger.info(webElement+" was clicked");
+        } catch (Exception e){
+            logger.error("Can't click to element");
+            Assert.fail("Can't click to element");
+        }
+    }
+
+    public void clickOnElement(String locator){
+        try{
+            clickOnElement(webDriver.findElement(By.xpath(locator)));
+
+        } catch (Exception e){
+            logger.error("Can't click to element");
+            Assert.fail("Can't click to element");
+        }
+    }
+
+
 
 }
