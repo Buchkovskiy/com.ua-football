@@ -8,6 +8,7 @@ public class LoginTestWithPageObject extends ParentTest {
     @Test
     public void validTest (){
         homePage.openPage();
+        homePage.checkCurrentUrl();
         homePage.clickSignIn();
         homePage.inputLogin("Fanat2019");
         homePage.inputPassword("Fanat2019");
